@@ -1,0 +1,21 @@
+{
+  "name": "pylon-turn",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@dgreenheck/ez-tree": "^1.1.0",
+    "@dgreenheck/three-pinata": "^2.0.1",
+    "@dimforge/rapier3d-compat": "^0.21.0",
+    "three": "^0.185.1",
+    "threejs-fire-pro": "^0.1.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

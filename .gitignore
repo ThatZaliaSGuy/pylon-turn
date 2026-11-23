@@ -1,0 +1,9 @@
+node_modules/
+dist/
+# original downloads (see assets/CREDITS.md); the game uses the copies in public/assets
+assets/raw/
+# local AI tooling
+.agents/
+.claude/
+_bmad/
+skills-lock.json
